@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Bedon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alessandro%20Bedon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
 </div>
 
@@ -59,6 +59,24 @@ const diego = {
 
 > Sistema de gestión para librería, desarrollado con un stack moderno Full Stack.  
 > Organización de inventario, registros y funcionalidades pensadas para el entorno académico.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### 📡 NetVeil — WiFi Monitor en Tiempo Real
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlessandroBedon/netveil)
+
+> Monitor de red WiFi que detecta dispositivos por dirección MAC en tiempo real.  
+> Integrado con un **ESP32** para captura de señales WiFi, backend en Flask y dashboard en Angular.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 </div>
 
