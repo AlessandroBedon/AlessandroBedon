@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Bedon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alessandro%20Bedon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
 </div>
 
@@ -139,7 +139,7 @@ const diego = {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@diego__ismac-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diego__ismac)
+[![Instagram](https://img.shields.io/badge/@diegobedon7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diego__ismac)
 [![GitHub](https://img.shields.io/badge/AlessandroBedon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlessandroBedon)
 
 </div>
