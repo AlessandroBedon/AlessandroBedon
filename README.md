@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alessandro%20Bedon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Diego%20Bedon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
 </div>
 
@@ -9,6 +9,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+%2B+Frontend+Enthusiast;Node.js+%7C+Spring+Boot+%7C+TypeScript;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 ## 👨‍💻 Sobre mí
 
@@ -29,27 +31,60 @@ const diego = {
 
 ## 🛠️ Stack Tecnológico
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot"/><br/>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=typescript" width="55" height="55" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask"/><br/>
+      <sub><b>Flask</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Angular"/><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
-### Base de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🚀 Proyectos Destacados
 
 <div align="center">
 
@@ -104,7 +139,7 @@ const diego = {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@diegobedon7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegobedon7)
+[![Instagram](https://img.shields.io/badge/@diego__ismac-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diego__ismac)
 [![GitHub](https://img.shields.io/badge/AlessandroBedon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlessandroBedon)
 
 </div>
