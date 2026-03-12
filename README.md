@@ -86,7 +86,7 @@ const diego = {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@diego__ismac-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegobedon7)
+[![Instagram](https://img.shields.io/badge/@diegobedon7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegobedon7)
 [![GitHub](https://img.shields.io/badge/AlessandroBedon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlessandroBedon)
 
 </div>
